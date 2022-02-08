@@ -1,1 +1,3 @@
 # give-india
+GiveIndia exists to alleviate poverty by enabling the world to give. Established in 2000, it is the largest and the most trusted giving platform in India. It enables individuals and organizations to raise and donate funds conveniently to any cause they care about, with offerings including crowdfunding, corporate giving, cause marketing, and philanthropy consulting.<br>
+In this my project i have scraped data from giveindia.org.There are 7 options as 1.Cancer care 2.children 3.Education 4.women 5.Differently Abled 6.Health 7.Livelihoods.If user will chose option of them.It will show ngo'all ngo's list and every ngo detail.
