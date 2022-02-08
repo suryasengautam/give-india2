@@ -1,0 +1,14 @@
+[
+    {
+        "ngo_name": "Isha Education",
+        "ngo_work": "Feed nutritious meals to a poor rural child",
+        "Place": "Tamil Nadu",
+        "Purpose_ngo": "education"
+    },
+    {
+        "ngo_name": "Kalinga Institute of Social Sciences",
+        "ngo_work": "Sponsor the meals of a poor tribal child",
+        "Place": "Odisha",
+        "Purpose_ngo": "education"
+    }
+]

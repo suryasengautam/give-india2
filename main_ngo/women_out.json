@@ -1,0 +1,32 @@
+[
+      {
+            "ngo_name": "Goonj",
+            "ngo_work": "Help poor women get access to sanitary pads",
+            "Place": "New Delhi",
+            "Purpose_ngo": "women"
+      },
+      {
+            "ngo_name": "ActionAid Association",
+            "ngo_work": "Help an abuse victim fight for justice",
+            "Place": "Bhopal",
+            "Purpose_ngo": "women"
+      },
+      {
+            "ngo_name": "Ashadeep",
+            "ngo_work": "Sponsor quality food for mental health patients in the rehabilitation center",
+            "Place": "Guwahati",
+            "Purpose_ngo": "women"
+      },
+      {
+            "ngo_name": "Swasthya Swaraj",
+            "ngo_work": "Help women in remote villages of Odisha get access to maternal health care",
+            "Place": "Odisha",
+            "Purpose_ngo": "women"
+      },
+      {
+            "ngo_name": "Gram Vikas Trust",
+            "ngo_work": "Sponsor sanitary napkins for rural women",
+            "Place": "Bharuch",
+            "Purpose_ngo": "women"
+      }
+]

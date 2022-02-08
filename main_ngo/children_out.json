@@ -1,0 +1,26 @@
+[
+    {
+        "ngo_name": "Snehalaya",
+        "ngo_work": "Support the living expenses of an orphan with HIV",
+        "Place": "Maharashtra",
+        "Purpose_ngo": "children"
+    },
+    {
+        "ngo_name": "Isha Education",
+        "ngo_work": "Feed nutritious meals to a poor rural child",
+        "Place": "Tamil Nadu",
+        "Purpose_ngo": "education"
+    },
+    {
+        "ngo_name": "St Jude India Childcare Centres",
+        "ngo_work": "Support a child suffering from cancer with monthly rations",
+        "Place": "Mumbai",
+        "Purpose_ngo": "children"
+    },
+    {
+        "ngo_name": "Sarthak Prayas",
+        "ngo_work": "Sponsor events celebrations for poor kids living in slums",
+        "Place": "New Delhi",
+        "Purpose_ngo": "children"
+    }
+]

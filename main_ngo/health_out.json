@@ -1,0 +1,20 @@
+[
+    {
+        "ngo_name": "Charutar Arogya Mandal",
+        "ngo_work": "Help a poor patient fight cancer",
+        "Place": "Gujarat",
+        "Purpose_ngo": "health"
+    },
+    {
+        "ngo_name": "Rural Health Care Foundation",
+        "ngo_work": "Sponsor the cost of spectacles for the underprivileged",
+        "Place": "West Bengal",
+        "Purpose_ngo": "health"
+    },
+    {
+        "ngo_name": "Neptune Foundation",
+        "ngo_work": "Help destitute patients suffering from mental illness reunite with their families",
+        "Place": "Mumbai",
+        "Purpose_ngo": "health"
+    }
+]
